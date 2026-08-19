@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Loana Martina Polo
+- Vivo en San Miguel
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con Github
+- Tengo 2 perras llamadas Manchita y Milka. Y una gata llamada Manola
